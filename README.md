@@ -12,6 +12,6 @@
 3. C++ installed in Visual Studio
 
 # Screenshots - 
-![Screenshot 2023-04-18 200538](https://user-images.githubusercontent.com/68467567/232818784-9e667c02-314b-4a90-8823-e8e3c5882c73.png)
-![Screenshot 2023-04-18 200555](https://user-images.githubusercontent.com/68467567/232818793-2bfca480-a5b6-417e-ade7-301577c11812.png)
-![Screenshot 2023-04-18 200448](https://user-images.githubusercontent.com/68467567/232818796-19812c7f-40a2-4a29-b706-3c6344163f20.png)
+![Screenshot 2023-04-18 200448](https://user-images.githubusercontent.com/68467567/232818927-55e072d9-4ea6-46f7-aa47-43c7341c3715.png)
+![Screenshot 2023-04-18 200538](https://user-images.githubusercontent.com/68467567/232818954-6fe680f6-2598-4759-83fa-30b57b4f4e87.png)
+![Screenshot 2023-04-18 200555](https://user-images.githubusercontent.com/68467567/232818972-bdf483d6-90c9-4735-8f7e-d489add6bee8.png)
